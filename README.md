@@ -1,0 +1,1 @@
+# lamoz-bot.github.io
