@@ -1,43 +1,43 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.lamoz.cn/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.lamoz.cn/categories/</loc>
+    <loc>https://www.lamoz.cn/categories/</loc>
     <lastmod>2022-12-27T00:54:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.lamoz.cn/categories/hugo/</loc>
+    <loc>https://www.lamoz.cn/categories/hugo/</loc>
     <lastmod>2022-12-27T00:54:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.lamoz.cn/</loc>
+    <loc>https://www.lamoz.cn/</loc>
     <lastmod>2022-12-27T00:54:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.lamoz.cn/post/</loc>
+    <loc>https://www.lamoz.cn/post/</loc>
     <lastmod>2022-12-27T00:54:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.lamoz.cn/post/my-first-post/</loc>
+    <loc>https://www.lamoz.cn/post/my-first-post/</loc>
     <lastmod>2022-12-27T00:54:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://www.lamoz.cn/tags/</loc>
+    <loc>https://www.lamoz.cn/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
